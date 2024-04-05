@@ -27,6 +27,6 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "@su22120/bss-master": "^1.0.0"
+    "@su22120/bss-master": "^1.0.1"
   }
 }
